@@ -2,7 +2,6 @@
   "name": "monitora-ufg-view",
   "version": "0.0.1",
   "author": "Ionic Framework",
-  "homepage": "https://antoniotavares20.github.io/Monitora-UFG/",
   "scripts": {
     "ng": "ng",
     "start": "ng serve",
